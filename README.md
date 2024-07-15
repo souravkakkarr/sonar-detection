@@ -22,9 +22,6 @@ Ready to explore the unseen? Follow these steps:
 ### Contributions Welcome 🤝
 We welcome contributions, feedback, and ideas to enhance our SONAR Detection project. Together, we can navigate the depths and improve underwater safety and exploration.
 
-### License 📜
-This project is licensed under the MIT License. Feel free to explore, modify, and share the code. See `LICENSE` for more details.
-
 ### Acknowledgments 🙌
 - Inspired by the potential of SONAR technology to revolutionize underwater detection.
 - Special thanks to the researchers and developers pushing the boundaries of marine science and technology.
